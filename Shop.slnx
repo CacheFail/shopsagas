@@ -1,0 +1,13 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/InventoryService.Grpc/InventoryService.Grpc.csproj" />
+    <Project Path="src/InventoryService/InventoryService.csproj" />
+    <Project Path="src/OrderService/OrderService.csproj" />
+    <Project Path="src/PaymentService/PaymentService.csproj" />
+    <Project Path="src/ShippingService/ShippingService.csproj" />
+    <Project Path="src/Shop.Contracts/Shop.Contracts.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/OrderService.Tests/OrderService.Tests.csproj" />
+  </Folder>
+</Solution>
